@@ -12,12 +12,12 @@ My tea timer started to die on me, and I did not want to buy something I could m
 
 Hardware:
 ---------
-1 Arduino UNO
-2 shift registers
-2 7-segment LEDs
-2 buttons
-1 speaker
-13 resistors
+ * 1 Arduino UNO
+ * 2 shift registers
+ * 2 7-segment LEDs
+ * 2 buttons
+ * 1 speaker
+ * 13 resistors
 
 Functions:
 ----------
